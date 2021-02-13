@@ -1,4 +1,4 @@
-# homework3
+# homework3 part 1
 java
 import java.util.Scanner; // Import the Scanner class
 
